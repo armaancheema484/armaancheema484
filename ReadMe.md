@@ -1,6 +1,6 @@
 👋 Hi, I’m Armaan! <br><br>
-👀 I’m interested in Software Development and Web Design, and have prior experience in Full Stack Development.<br><br>
-🌱 I’m currently learning C# & Rust to further improve my skills.<br><br>
+👀 I’m interested in Software Development and Web Design, and have prior experience in both Back-End and Front-End Development.<br><br>
+🌱 I’m currently learning Rust to further improve my skills.<br><br>
 💞️ I’m looking to gain experience by contributing to open-source projects.<br><br>
 📫 How to reach me ...<br><br>
 
