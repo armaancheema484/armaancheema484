@@ -1,10 +1,14 @@
 # 👋 Hi there, I’m Armaan!
-👀 I’m interested in Software Development and Web Design, and have prior experience in both Back-End and Front-End Development.
+👀 I'm a passionate Software Developer with a love for building scalable applications and solving complex problems. Welcome to my GitHub profile!
 
 ## About Me
-🌱 I’m currently learning Rust to further improve my skills.<br><br>
-💞️ I’m looking to gain experience by contributing to open-source projects.<br><br>
-📫 You can reach me here -> https://www.linkedin.com/in/armaan-cheema-a73361148/.<br><br>
+- 🔭 I’m currently working on a task management app.
+- 🌱 I’m currently learning Kubernetes and cloud-native technologies.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about Python, JavaScript, and DevOps.
+- 📫 How to reach me: john.doe@example.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I once coded for 24 hours straight!
 
 ## Skills
 ### Programming Languages
@@ -25,6 +29,33 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+## Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Task Manager](https://github.com/armaancheema484/task-manager) | A web app for task management. | React, Node.js, MongoDB |
+| [Sentiment Analysis](https://github.com/john-doe/sentiment-analysis) | A machine learning model for sentiment analysis. | Python, TensorFlow, Flask |
+| [CI/CD Pipeline](https://github.com/john-doe/ci-cd-pipeline) | A CI/CD pipeline for automated deployments. | Jenkins, Docker, Kubernetes |
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=armaancheema484&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armaancheema484&layout=compact&theme=radical)
+
+## Contact Me
+
+Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armaan-cheema-a73361148/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armaancheema484@gmail.com)
+
+## Fun Fact
+
+Here's a random joke for you:
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
 armaancheema484/armaancheema484 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
