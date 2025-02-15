@@ -7,7 +7,6 @@
 📫 You can reach me here -> https://www.linkedin.com/in/armaan-cheema-a73361148/.<br><br>
 
 ## Skills
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
