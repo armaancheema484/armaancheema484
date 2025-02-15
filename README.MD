@@ -2,13 +2,12 @@
 👀 I'm a passionate Software Developer with a love for building scalable applications and solving complex problems. Welcome to my GitHub profile!
 
 ## About Me
-- 🔭 I’m currently working on a task management app.
-- 🌱 I’m currently learning Kubernetes and cloud-native technologies.
+- 🔭 I’m currently working on freeCodeCamp certifications.
+- 🌱 I’m currently learning Rust and brushing up on Java.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, JavaScript, and DevOps.
-- 📫 How to reach me: john.doe@example.com.
+- 💬 Ask me about Python, JavaScript, and Java.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I once coded for 24 hours straight!
+- ⚡ Fun fact: I once coded for 16 hours straight!
 
 ## Skills
 ### Programming Languages
@@ -34,9 +33,9 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Task Manager](https://github.com/armaancheema484/task-manager) | A web app for task management. | React, Node.js, MongoDB |
-| [Sentiment Analysis](https://github.com/john-doe/sentiment-analysis) | A machine learning model for sentiment analysis. | Python, TensorFlow, Flask |
-| [CI/CD Pipeline](https://github.com/john-doe/ci-cd-pipeline) | A CI/CD pipeline for automated deployments. | Jenkins, Docker, Kubernetes |
+| [Finance Tracker] | A web app for managing expenses and income. | Python, React, Flask, SQL |
+| [Eden's Design] | A mobile app for garden tracking and cultivation support. | Dart, Firebase, Android, iOS |
+| [Weather Tracker] | A web app for tracking current weather using geolocation. | HTML, CSS, JavaScript |
 
 ## GitHub Stats
 
