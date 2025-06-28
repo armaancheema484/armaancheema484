@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Armaan!
-👀 I'm a passionate Software Developer with a love for building scalable applications and solving complex problems. Welcome to my GitHub profile!
+I'm a passionate Software Developer with a love for building scalable applications and solving complex problems. Welcome to my GitHub profile!
 
 ## About Me
 - 🔭 I’m currently working on freeCodeCamp certifications.
